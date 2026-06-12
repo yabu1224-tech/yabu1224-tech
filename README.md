@@ -49,13 +49,15 @@ I am an **Electrical & Communication Engineering student** operating at the uniq
 
 ## ⚡ Active Sprint: 30 Days of 3D JS
 I am systematically documenting a daily, highly disciplined sprint to master creative web development and WebGL pipelines.
-
 | Milestone | Architecture Focus | Core Technical Concept | Status |
 | :--- | :--- | :--- | :--- |
 | **Day 01** | Core Architecture | 3D Scene initialization, Responsive Viewports, DOM hooks | 🟢 Complete |
 | **Day 02** | Camera Physics | Linear Interpolation ($Lerp$), Multi-axis Mouse Tracking | 🟢 Complete |
 | **Day 03** | Custom Materials | GPU-driven GLSL Vertex Displacement, Organic Fluid Shaders | 🟢 Complete |
-| **Day 04** | Particle Swarms | Particle system geometry, mathematical vector fields | 🟡 Up Next |
+| **Day 04** | Particle Swarms | Particle system geometry, mathematical vector fields | 🟢 Complete |
+| **Day 05** | Wave Noise       | Trigonometric wave formulas, custom radial textures   | 🟢 Complete |
+| **Day 06** | Particle Vortex   | Spiral math distributions, interactive gravity wells  | 🟢 Complete |
+| **Day 07** | Physics Engines   | Gravity vectors, collision tracking bounds            | 🟡 Up Next |
 
 👉 **[Explore the 30-Day Challenge Engine](https://github.com/yabu1224-tech/30-days-of-3d-js)**
 
